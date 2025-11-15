@@ -1,0 +1,5 @@
+{
+  "name": "Peoplestay",
+  "description": "A centralized dashboard integrating property rental platforms to manage bookings, messaging, pricing, and housekeeping. Features AI-powered guest communication, dynamic pricing optimization, automated lead capture, and smart task management for a seamless property management experience.",
+  "requestFramePermissions": []
+}
